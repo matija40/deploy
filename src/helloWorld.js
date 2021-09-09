@@ -1,6 +1,6 @@
 function printHelloWorld() {
     const h1 = document.createElement('h1');
-    h1.innerHTML = "Hello world!";
+    h1.innerHTML = "Hello worldd!";
     document.body.appendChild(h1);
 }
 
